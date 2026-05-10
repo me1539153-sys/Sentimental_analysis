@@ -1,4 +1,4 @@
-# ML02softgrowthtech
+# Human Emotion Recognition
 A modern, deep-learning-based web application that identifies human emotions from speech audio. This project leverages the Wav2Vec2 transformer architecture to achieve high-accuracy results without the need for manual feature extraction.
 
  *Features*
